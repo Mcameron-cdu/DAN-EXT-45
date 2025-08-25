@@ -1,7 +1,5 @@
-# HIT137 Assignment 2 - Q1 (starter)
-# Just reads raw_text.txt and prints it out
+# HIT137 Assignment 2 - Q1
 
-# open the input file
 with open("assignment_files/raw_text.txt", "r") as f:
     text = f.read()
 
