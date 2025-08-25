@@ -58,3 +58,7 @@ README.md       <- you're reading this
 ## How to Submit
 - Tag a release: **v1.0.0** with the final commit hash and attach required artefacts.
 - Export a PDF of `/docs/REPORT.md` if needed by your rubric.
+
+## Acknowledgements
+
+This repository’s initial structure (README, .gitignore, issue templates, PR template, and CI setup) was generated with assistance from **ChatGPT (OpenAI, 2025)** to help establish good GitHub collaboration practices for this assignment.
