@@ -62,3 +62,7 @@ README.md       <- you're reading this
 ## Acknowledgements
 
 This repository’s initial structure (README, .gitignore, issue templates, PR template, and CI setup) was generated with assistance from **ChatGPT (OpenAI, 2025)** to help establish good GitHub collaboration practices for this assignment.
+
+## References
+
+OpenAI. (2025). *ChatGPT* (March 2025 version) [Large language model]. https://chat.openai.com/
