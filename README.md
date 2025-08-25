@@ -15,7 +15,6 @@ This repository is for our HIT137 Assignment 2. It contains the assignment instr
 
 ## Communication
 
-- Start an Issue titled: “Please read the README and check assignment files” so everyone sees the setup.
 - Use Issues to track work and progress.
 - Meeting notes or extra details can be added as comments in Issues or added as a simple NOTES.md file if needed.
 
