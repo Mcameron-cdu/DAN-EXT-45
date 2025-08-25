@@ -1,28 +1,29 @@
 # HIT137 Assignment 2 — Team Repository
 
-This repository is for our HIT137 Assignment 2. It contains the assignment instructions, data, and any code or notes we create as a group.
+This repository is for our HIT137 Assignment 2. It has the assignment instructions, input files, code, and outputs that we create as a group.
 
 ---
 
 ## How we will work together
 
-- **Branches**: Each person should create a branch for their part of the work (e.g., `data-cleaning`, `report-draft`) and then open a pull request back to `main`.
-- **Commits**: Keep commits small and use clear messages (e.g., “add CSV loader” or “draft analysis section”).
-- **Issues**: Use GitHub Issues to assign work and leave notes for each other. Tag team members with @username so they get a notification.
-- **Reviews**: At least one other team member should check a pull request before it is merged into `main`.
+- **Branches**: Each person makes a branch for the question they are working on (for example `q1-encryption`, `q2-temperature`, `q3-pattern`). When the work is ready it gets pulled back into `main`.
+- **Commits**: Keep commits small and write a short message about what changed (like “added starter for Q1” or “finished Q2 outputs”).
+- **Issues**: Use Issues to split up the work and leave notes for each other. Tag teammates with @username so they see it.
+- **Reviews**: Before code goes into `main`, someone else should check the pull request and approve it.
 
 ---
 
 ## Communication
 
-- Use Issues to track work and progress.
-- Meeting notes or extra details can be added as comments in Issues or added as a simple NOTES.md file if needed.
+- We will use Issues to keep track of tasks and progress.
+- Each person should comment on Issues when they finish something or have a problem.
+- Meeting notes or extra details can go into Issue comments or into a NOTES.md file if we need one.
 
 ---
 
 ## Assignment Tasks
 
-This repository contains the inputs, code, and outputs for HIT137 Assignment 2.  
+This repository has the inputs, code, and outputs for HIT137 Assignment 2.
 
 ### Q1 — Encryption and Decryption
 - Input: `assignment_files/raw_text.txt`
@@ -41,17 +42,16 @@ This repository contains the inputs, code, and outputs for HIT137 Assignment 2.
 
 ### Q3 — Recursive Turtle Graphics
 - Program: `code/q3_pattern.py`
-- Output: turtle graphics pattern (user input controls sides, side length, and recursion depth)
+- Output: turtle graphics pattern (user inputs sides, side length, and recursion depth)
 
 ---
 
-### Notes
-- All coding, communication, and collaboration for this assignment is completed in GitHub.
+## Notes
+- All coding, communication, and collaboration for this assignment is done in GitHub.
 - Outputs are saved in the `assignment_files/` folder as required.
 - Submission will include this repository link (`github_link.txt`) and a zipped copy of all files.
 
+---
 
 ## References
-
-If we use external resources for coding or explanations, we will add the references here.
-
+If we use external resources for coding or explanations, we will add the references here in APA style.
