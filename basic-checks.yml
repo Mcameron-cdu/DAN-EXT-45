@@ -1,0 +1,19 @@
+name: Basic checks
+
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+
+jobs:
+  whitespace-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fail on tabs or trailing spaces
+        run: |
+          if git grep -nP '\t|\s$' -- . ':!*.png' ':!*.jpg' ':!*.zip'; then
+            echo "Tabs or trailing spaces found. Please clean up."
+            exit 1
+          fi
+          echo "Whitespace check passed."
