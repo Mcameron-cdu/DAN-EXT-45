@@ -54,4 +54,4 @@ This repository has the inputs, code, and outputs for HIT137 Assignment 2.
 ---
 
 ## References
-If we use external resources for coding or explanations, we will add the references here in APA style.
+If we use external resources for coding or explanations, we will add the references here.
