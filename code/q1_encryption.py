@@ -1,6 +1,6 @@
 ﻿# Program: Two-shift Caesar cipher (encrypts and decrypts alternating characters)
 # Author: Michael Cameron
-# Date: YYYY-MM-DD
+# Date: 29-08-2025
 
 # Function to shift a single character by 'shift' positions
 # If character is a letter, it rotates within A-Z or a-z
