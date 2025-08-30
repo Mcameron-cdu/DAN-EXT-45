@@ -1,0 +1,11 @@
+import csv
+#Create a list of filenames 
+files = ["stations_group_1987.csv", "stations_group_1988.csv", "stations_group_1989.csv", "stations_group_1990.csv", "stations_group_1991.csv", "stations_group_1992.csv", "stations_group_1993.csv", "stations_group_1994.csv", "stations_group_1995.csv", "stations_group_1996.csv", "stations_group_1997.csv", "stations_group_1998.csv", "stations_group_1999.csv", "stations_group_2000.csv", "stations_group_2001.csv", "stations_group_2002.csv", "stations_group_2003.csv", "stations_group_2004.csv", "stations_group_2005.csv"]
+allthedata = {}
+for fname in files:
+    data_one = []
+    file = open(fname, "r", newline = "")
+    reader = csv.reader(file)
+
+
+
