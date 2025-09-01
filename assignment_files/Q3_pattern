@@ -18,6 +18,7 @@ def shape(sides, length, depth):
     angle = 360 / sides
     for i in range(sides):
         edge(length, depth)
+        turtle.right(angle)
 
 sides = int(input("Number of sides: "))
 length = int(input("Length of each side: "))
@@ -26,5 +27,6 @@ depth = int(input("Recursion depth: "))
 turtle.speed(0)
 
 shape(sides, length, depth)
+
 
 turtle.done()
