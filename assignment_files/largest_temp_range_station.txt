@@ -1,1 +1,1 @@
-MEEKATHARRA-AIRPORT: Range 24.3°C (Max: 43.8°C, Min: 19.5°C)
+BOURKE-AIRPORT-AWS: Range 24.4°C (Max: 43.0°C, Min: 18.5°C)
