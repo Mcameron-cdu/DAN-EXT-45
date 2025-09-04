@@ -1,0 +1,2 @@
+Most Stable: Station DARWIN-AIRPORT: Standard Deviation 1.2°C
+Most Variable: Station RUTHERGLEN-RESEARCH: Standard Deviation 6.9°C
